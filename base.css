@@ -1,0 +1,40 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+#white-nav {
+    background: white!important;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+a#icon {
+    padding: 0!important;
+}
+
+#icon-text {
+    color: #FCD272;
+    font-weight: bold;
+}
+
+.orange {
+    color: #FCD272!important;
+}
+.about-us-container > .row {
+    height: 100vh!important;
+}
+
+.title {
+    color: #4E73BA;
+    font-weight: bold;
+    font-size: 2.3rem;
+}
+
+.title-big {
+    color: #4E73BA;
+    font-weight: bold;
+    font-size: 4rem;
+}
+
+#kontak {
+    background: #4E73BA;
+}

@@ -1,0 +1,15 @@
+html {
+  font-size: 14px;
+}
+@media screen and (min-width: 320px) {
+  html {
+    font-size: calc( 14px + 4 * ((100vw - 320px) / 704) );
+  }
+}
+@media screen and (min-width: 1024px) {
+  html {
+    font-size: 18px;
+  }
+}
+
+/*# sourceMappingURL=responsive-font.css.map */
